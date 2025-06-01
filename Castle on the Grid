@@ -1,4 +1,4 @@
-// in python 3
+#!/bin/python3
 
 N = int(input())
 grid = []
