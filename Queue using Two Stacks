@@ -1,4 +1,5 @@
-// in python 3
+#!/bin/python3
+
 q=int(input())
 qa=[]
 for q0 in range(q):
